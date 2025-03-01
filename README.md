@@ -1,2 +1,2 @@
 # scale-aware
-Scale Aware Recognition in Satellite Imagery
+Scale Aware Recognition in Satellite Imagery under Budget Constraints
