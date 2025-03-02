@@ -1,0 +1,11 @@
+name: scale_aware
+channels:
+  - defaults
+dependencies:
+  - python=3.10
+  - cudatoolkit=11.3
+  - torchvision==0.13.1
+  - torchaudio==0.12.1
+  - conda-forge::plotly
+  - conda-forge::timm
+prefix: /home/ssr234/.conda/envs/graft
