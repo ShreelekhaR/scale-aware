@@ -1,8 +1,10 @@
 # [Scale Aware Recognition in Satellite Images under Resource Constraints](https://www.cs.cornell.edu/~revankar/scale_aware)
 
-## Description
-This repository contains the implementation of a scale-aware recognition system for satellite imagery that operates efficiently under computational budget constraints. Our approach optimizes the trade-off between accuracy and computational resources by adaptively selecting appropriate scales for feature extraction based on the content of the imagery.
+Published as a conference paper at ICLR 2025
 
+#### Authors: Shreelekha Revankar¹*, Cheng Perng Phoo¹, Utkarsh Mall², Bharath Hariharan¹, Kavita Bala¹
+<sup>1</sup>Cornell University
+<sup>2</sup>Columbia University
 ## Getting Started
 
 ### Setting up the Python Environment
