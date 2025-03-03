@@ -36,3 +36,16 @@ to get images at scale, at both 10m resolution and 100 corresponding 1m resoluti
 
 This way of labeling of satellite imagery using OpenStreetMap (OSM) data can be credited to Mall et. al. in [Remote Sensing Vision-Language Foundation Models
 without Annotations via Ground Remote Alignment](https://graft.cs.cornell.edu/). 
+
+---
+## Step-3: Prepare Data for Training
+Run command:
+> python prepare_train_data.py
+to prepare data for training. This will create 4 CSV files: sentinel_train.csv, sentinel_val.csv, naip_train.csv, naip_val.csv
+
+#
+## Training
+#
+### Training High and Low Resolution Models
+
+<!-- To train the fully supervised high resolution model, run the following command: -->
