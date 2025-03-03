@@ -2,9 +2,9 @@
 
 <!-- first create links to data and then training -->
 #
-# ## Data Preparation
+### Data Preparation
 #
-# To prepare the data for training, follow these steps:
+#### To prepare the data for training, follow these steps:
 Download raw osm files using `download_osms.py`
  > python download_osms.py
 
@@ -49,3 +49,4 @@ to prepare data for training. This will create 4 CSV files: sentinel_train.csv, 
 ### Training High and Low Resolution Models
 
 <!-- To train the fully supervised high resolution model, run the following command: -->
+In Progress! 
