@@ -5,6 +5,9 @@ Published as a conference paper at ICLR 2025
 #### Authors: Shreelekha Revankar¹*, Cheng Perng Phoo¹, Utkarsh Mall², Bharath Hariharan¹, Kavita Bala¹
 <sup>1</sup>Cornell University
 <sup>2</sup>Columbia University
+
+This repository contains the official implementation of our ICLR 2025 paper: Scale-Aware Recognition in Satellite Images Under Resource Constraints.
+
 ## Getting Started
 
 ### Setting up the Python Environment
