@@ -2,7 +2,7 @@
 
 <!-- first create links to data and then training -->
 #
-### Data Preparation
+## Data Preparation
 #
 #### To prepare the data for training, follow these steps:
 Download raw osm files using `download_osms.py`
